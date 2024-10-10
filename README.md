@@ -33,7 +33,7 @@ AI Recommender System 是一个基于 Next.js 和 Prisma 的智能推荐系统�
 1. 克隆仓库：
 
    ```bash
-   git clone https://github.com/your-username/ai-recommender.git
+   git clone https://github.com/Maxsong-0/ai-recommender.git
    cd ai-recommender
    ```
 
@@ -138,4 +138,4 @@ GET /api/recommendations?userId=1
 
 项目维护者：Max Song - maxsong5020@gmail.com
 
-项目链接：[https://github.com/your-username/ai-recommender](https://github.com/your-username/ai-recommender)
+项目链接：[https://github.com/Maxsong-0/ai-recommender](https://github.com/Maxsong-0/ai-recommender)
