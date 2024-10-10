@@ -136,6 +136,6 @@ GET /api/recommendations?userId=1
 
 ## 联系方式
 
-项目维护者：Your Name - your.email@example.com
+项目维护者：Max Song - maxsong5020@gmail.com
 
 项目链接：[https://github.com/your-username/ai-recommender](https://github.com/your-username/ai-recommender)
